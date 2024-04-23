@@ -1,8 +1,8 @@
-# Fundus
+# Fundus Eye Project
 
-I just tempted to create a repository for applying machine learning and deep learning models to solve various fundus data-related problems. I plan to experiment on various image processing, machine learning, or deep learning methods that I learnt using fundus data as a starter for experimentation. Good start for learning IMO.
+I just tempted to create a repository to store various information regarding datasets and problems related with fundus (eye). I plan to experiment on various image processing, machine learning, or deep learning methods or techniques that I learnt using fundus data as a starter for experimentation. Good start for learning IMO.
 
-## Dataset
+## Datasets
 
 | Name | Size | Diseases | Source |
 | -- | -- | -- | -- |
