@@ -9,13 +9,13 @@ I just tempted to create a repository to store various information regarding dat
 | Diabetic Retinopathy Detection | 1000 / 88.29 GB | Diabetic Retinopathy  | [link](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
 | Glaucoma Fundus Imaging Datasets (Usability 8.24) | ~2500 / 10.07 GB | Glaucoma | [link](https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets) |
 | SMDG, A Standardized Fundus Glaucoma Dataset (Usability 10.0) | 12.449 / 3.18 GB | Glaucoma | [link](https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset) |
-| 1000 Fundus images with 39 categories (Usability 6.88) | 1000 / 447.42 MB | 39 diseases | [link](https://www.kaggle.com/datasets/linchundan/fundusimage1000) |
+| 1000 Fundus images with 39 categories (Usability 6.88) | 1000 / 447.42 MB | 38 diseases | [link](https://www.kaggle.com/datasets/linchundan/fundusimage1000) |
 | Dataset for different eye disease (Usability 6.25) | 9824 / 2.82 GB | Glaucoma | [link](https://www.kaggle.com/datasets/dhirajmwagh1111/dataset-for-different-eye-disease) |
 | Glaucoma Classification Datasets (Usability 5.63) | 9005 / 2.51 GB | Glaucoma | [link](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets) |
 | Retina Fundus Image Registration (Usability 9.38) | 129 / 501.29 MB | - | [link](https://www.kaggle.com/datasets/andrewmvd/fundus-image-registration) |
 | Ocular Disease Recognition / ODIR-5K (Usability 8.24) | 5000 / 2.03 GB | Normal, Diabetes, Glaucoma, Cataract, Age related Macular Degeneration, Hypertension, Pathological Myopia, Other diseases/abnormalities | [link](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k) |
-| Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 46 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) [link](https://riadd.grand-challenge.org/download-all-classes/) |
-| Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 25 diseases | [link](https://zenodo.org/records/7505822) |
+| Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 45 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) [link](https://riadd.grand-challenge.org/download-all-classes/) |
+| Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 24 diseases | [link](https://zenodo.org/records/7505822) |
 | INSPIRE-AVR | 40 / 80 MB | Hypertensive Retinopathy | [link](https://medicine.uiowa.edu/eye/inspire-datasets) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | VICAVR | 58 / - | Hypertensive Retinopathy | [link](http://www.varpa.es/research/ophtalmology.html#vicavr) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | STARE | 400 / - | Emboli, BRAO, VRAO, BRVO, CRVO, Hemi-CRVO, BDR/NPDR, PDR, ASR, HTR, CNV [src]()https://cecas.clemson.edu/~ahoover/stare/diagnoses/diagnoses.html | [link](https://cecas.clemson.edu/~ahoover/stare/) |
@@ -49,6 +49,7 @@ While creating this, I found a paper that have compiled and analyzed various fun
 ### Nice Papers to Check
 - Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model (2019)
 - Hierarchical Vision Transformer using Shifted Windows (2021)
+- Multi-Disease Detection in Retinal Imaging based on Ensembling Heterogeneous Deep Learning Models (2021)
 - Multi-label Retinal Disease Classification Using Transformers (2022)
 - An interpretable transformer network for the retinal disease classification using optical coherence tomography (2023)
 - Multi-label classification of retinal disease via a novel vision transformer model (2024)
