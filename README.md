@@ -38,6 +38,7 @@ While creating this, I found a paper that have compiled and analyzed various fun
 
 ### Image Preprocessing Techniques
 
+- Augmentation techniques suitable for fundus images (???)
 - CLAHE
 
 ### Models
