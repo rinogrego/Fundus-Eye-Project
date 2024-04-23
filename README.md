@@ -19,7 +19,7 @@ I just tempted to create a repository for applying machine learning and deep lea
 | INSPIRE-AVR | 40 / 80 MB | Hypertensive Retinopathy | [link](https://medicine.uiowa.edu/eye/inspire-datasets) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | VICAVR | 58 / - | Hypertensive Retinopathy | [link](http://www.varpa.es/research/ophtalmology.html#vicavr) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 
-While creating this, I found a paper that have compiled and analyzed publicly available fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
+While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
 - Krzywicki, T.; Brona, P.; Zbrzezny, A.M.; Grzybowski, A.E. A Global Review of Publicly Available Datasets Containing Fundus Images: Characteristics, Barriers to Access, Usability, and Generalizability. J. Clin. Med. 2023, 12, 3587. https://doi.org/10.3390/jcm12103587
 
