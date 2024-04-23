@@ -44,6 +44,7 @@ While creating this, I found a paper that have compiled and analyzed various fun
 ### Models
 
 - Convolutional Neural Networks
+- Convolutional Neural Networks + Machine Learning Models
 - Transfer Learning
 - Vision Transformer
 
