@@ -18,7 +18,7 @@ I just tempted to create a repository to store various information regarding dat
 | Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 24 diseases | [link](https://zenodo.org/records/7505822) |
 | INSPIRE-AVR | 40 / 80 MB | Hypertensive Retinopathy | [link](https://medicine.uiowa.edu/eye/inspire-datasets) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | VICAVR | 58 / - | Hypertensive Retinopathy | [link](http://www.varpa.es/research/ophtalmology.html#vicavr) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
-| STARE | 400 / - | Emboli, BRAO, VRAO, BRVO, CRVO, Hemi-CRVO, BDR/NPDR, PDR, ASR, HTR, CNV ([source](https://cecas.clemson.edu/~ahoover/stare/diagnoses/diagnoses.html) | [link](https://cecas.clemson.edu/~ahoover/stare/)) |
+| STARE | 400 / - | Emboli, BRAO, VRAO, BRVO, CRVO, Hemi-CRVO, BDR/NPDR, PDR, ASR, HTR, CNV ([source](https://cecas.clemson.edu/~ahoover/stare/diagnoses/diagnoses.html)) | [link](https://cecas.clemson.edu/~ahoover/stare/) |
 | VietAI Advance Course - Retinal Disease Detection | 3785 / 66.54 MB | opacity, diabetic retinopathy, glaucoma, macular edema, macular degeneration, and retinal vascular occlusion | [link](https://www.kaggle.com/competitions/vietai-advance-retinal-disease-detection-2020/data) |
 | Sydney Innovation Challenge 2019 | 14145 / 18.07 GB | Diabetic Retinopathy | [link](https://www.kaggle.com/competitions/innovation-challenge-2019/data) |
 | William Hoyt | 850 / - | Papilledema, pseudo-papilledema, and various other eye disease groups | [link](https://novel.utah.edu/collection/william-f-hoyt/#tab-collection) |
