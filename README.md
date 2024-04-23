@@ -6,7 +6,7 @@ I just tempted to create a repository to store various information regarding dat
 
 | Name | Size | Source Datasets | Diseases | Source |
 | -- | -- | -- | -- | -- |
-| Diabetic Retinopathy Detection | 1000 / 88.29 GB | Original | Diabetic Retinopathy  | [link](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
+| Diabetic Retinopathy Detection | 88702 / 88.29 GB | Original | Diabetic Retinopathy  | [link](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
 | Glaucoma Fundus Imaging Datasets (Usability 8.24) | ~2500 / 10.07 GB | ORIGA, REFUGE, G1020 | Glaucoma | [link](https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets) |
 | SMDG, A Standardized Fundus Glaucoma Dataset (Usability 10.0) | 12.449 / 3.18 GB | BEH (Bangladesh Eye Hospital), CRFO-v4, DR-HAGIS, DRISHTI-GS1-TRAIN, DRISHTI-GS1-TEST, EyePACS-AIROGS, FIVES, G1020, HRF, JSIEC-1000, LES-AV, OIA-ODIR-TRAIN, OIA-ODIR-TEST-ONLINE, OIA-ODIR-TEST-OFFLINE, ORIGA-light, PAPILA, REFUGE1-TRAIN, REFUGE1-VALIDATION, sjchoi86-HRF | Glaucoma | [link](https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset) |
 | 1000 Fundus images with 39 categories (Usability 6.88) | 1000 / 447.42 MB | JSIEC, LEDRS, EyePACS, & Original (External Hospitals) | 38 diseases | [link](https://www.kaggle.com/datasets/linchundan/fundusimage1000) |
@@ -27,6 +27,7 @@ I just tempted to create a repository to store various information regarding dat
 | Retinal fundus images for glaucoma analysis: the RIGA dataset | 750 / 12.9 GB | MESSIDOR, Bin Rushed Ophthalmic center, Magrabi Eye center | Glaucoma | [link](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) |
 | The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading | 1151 / 481.69 MB | Original | Diabetic Retinopathy | [link](https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1) |
 | MuReD | 2208 / 3.83 GB | ARIA, STARE, RFMiD | 19 diseases | [link](https://ieee-dataport.org/documents/multi-label-retinal-disease-mured-dataset) [link](https://data.mendeley.com/datasets/pc4mb3h8hz/1) |
+| Rotterdam EyePACS AIROGS | 101442 / 54.9 GB | Original | Glaucoma | [link](https://zenodo.org/records/5793241) [link](https://airogs.grand-challenge.org) |
 
 While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
