@@ -15,13 +15,23 @@ I just tempted to create a repository for applying machine learning and deep lea
 | Retina Fundus Image Registration (Usability 9.38) | 129 / 501.29 MB | | [link](https://www.kaggle.com/datasets/andrewmvd/fundus-image-registration) |
 | Ocular Disease Recognition / ODIR-5K (Usability 8.24) | 5000 / 2.03 GB | Normal, Diabetes, Glaucoma, Cataract, Age related Macular Degeneration, Hypertension, Pathological Myopia, Other diseases/abnormalities | [link](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k) |
 | Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 46 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) |
-| Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | | [link](https://zenodo.org/records/7505822) |
+| Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 25 diseases | [link](https://zenodo.org/records/7505822) |
 | INSPIRE-AVR | 40 / 80 MB | Hypertensive Retinopathy | [link](https://medicine.uiowa.edu/eye/inspire-datasets) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | VICAVR | 58 / - | Hypertensive Retinopathy | [link](http://www.varpa.es/research/ophtalmology.html#vicavr) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
+| STARE | 400 / - | Emboli, BRAO, VRAO, BRVO, CRVO, Hemi-CRVO, BDR/NPDR, PDR, ASR, HTR, CNV [src]()https://cecas.clemson.edu/~ahoover/stare/diagnoses/diagnoses.html | [link](https://cecas.clemson.edu/~ahoover/stare/) |
+| VietAI Advance Course - Retinal Disease Detection | 3785 / 66.54 MB | opacity, diabetic retinopathy, glaucoma, macular edema, macular degeneration, and retinal vascular occlusion | [link](https://www.kaggle.com/competitions/vietai-advance-retinal-disease-detection-2020/data) |
+| Sydney Innovation Challenge 2019 | 14145 / 18.07 GB | Diabetic Retinopathy | [link](https://www.kaggle.com/competitions/innovation-challenge-2019/data) |
+| William Hoyt | 850 / - | Papilledema, pseudo-papilledema, and various other eye disease groups | [link](https://novel.utah.edu/collection/william-f-hoyt/#tab-collection) |
+| PAPILA | 488 / 563.49 MB | Glaucoma | [link](https://figshare.com/articles/dataset/PAPILA/14798004) [paper](https://www.nature.com/articles/s41597-022-01388-1) |
+| Retinal Fundus Images (Usability 3.13) | 21746 / 2.49 GB | AMD, Glaucoma, Diabetic Retinopathy, Cataract, Hypertensive Retinopathy, Pathological Myopia | [link](https://www.kaggle.com/datasets/kssanjaynithish03/retinal-fundus-images) |
+| Retinal fundus images for glaucoma analysis: the RIGA dataset | 750 / 12.9 GB | Glaucoma | [link](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) |
+| The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading | 1151 / 481.69 MB | Diabetic Retinopathy | [link](https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1) |
 
 While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
 - Krzywicki, T.; Brona, P.; Zbrzezny, A.M.; Grzybowski, A.E. A Global Review of Publicly Available Datasets Containing Fundus Images: Characteristics, Barriers to Access, Usability, and Generalizability. J. Clin. Med. 2023, 12, 3587. https://doi.org/10.3390/jcm12103587
+
+**Note**: it seems there already exist some works of compiling fundus dataset from various sources, so there may be some duplications if every datasets available are used directly.
 
 ## Methods
 
@@ -34,3 +44,7 @@ While creating this, I found a paper that have compiled and analyzed various fun
 - Convolutional Neural Networks
 - Transfer Learning
 - Vision Transformer
+
+### Nice Papers to Check
+- Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model (2019)
+- 
