@@ -12,7 +12,7 @@ I just tempted to create a repository to store various information regarding dat
 | 1000 Fundus images with 39 categories (Usability 6.88) | 1000 / 447.42 MB | 39 diseases | [link](https://www.kaggle.com/datasets/linchundan/fundusimage1000) |
 | Dataset for different eye disease (Usability 6.25) | 9824 / 2.82 GB | Glaucoma | [link](https://www.kaggle.com/datasets/dhirajmwagh1111/dataset-for-different-eye-disease) |
 | Glaucoma Classification Datasets (Usability 5.63) | 9005 / 2.51 GB | Glaucoma | [link](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets) |
-| Retina Fundus Image Registration (Usability 9.38) | 129 / 501.29 MB | | [link](https://www.kaggle.com/datasets/andrewmvd/fundus-image-registration) |
+| Retina Fundus Image Registration (Usability 9.38) | 129 / 501.29 MB | - | [link](https://www.kaggle.com/datasets/andrewmvd/fundus-image-registration) |
 | Ocular Disease Recognition / ODIR-5K (Usability 8.24) | 5000 / 2.03 GB | Normal, Diabetes, Glaucoma, Cataract, Age related Macular Degeneration, Hypertension, Pathological Myopia, Other diseases/abnormalities | [link](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k) |
 | Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 46 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) |
 | Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 25 diseases | [link](https://zenodo.org/records/7505822) |
