@@ -6,7 +6,7 @@ I just tempted to create a repository for applying machine learning and deep lea
 
 | Name | Size | Diseases | Source |
 | -- | -- | -- | -- |
-| Diabetic Retinopathy Detection | 1000 / 88.29 GB | Diabetic Retinopathy (No DR, Mild, Moderate, Severe, Proliferative DR) | [link](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
+| Diabetic Retinopathy Detection | 1000 / 88.29 GB | Diabetic Retinopathy  | [link](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) |
 | Glaucoma Fundus Imaging Datasets (Usability 8.24) | ~2500 / 10.07 GB | Glaucoma | [link](https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets) |
 | SMDG, A Standardized Fundus Glaucoma Dataset (Usability 10.0) | 12.449 / 3.18 GB | Glaucoma | [link](https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset) |
 | 1000 Fundus images with 39 categories (Usability 6.88) | 1000 / 447.42 MB | 39 diseases | [link](https://www.kaggle.com/datasets/linchundan/fundusimage1000) |
