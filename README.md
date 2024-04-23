@@ -14,7 +14,7 @@ I just tempted to create a repository to store various information regarding dat
 | Glaucoma Classification Datasets (Usability 5.63) | 9005 / 2.51 GB | Glaucoma | [link](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets) |
 | Retina Fundus Image Registration (Usability 9.38) | 129 / 501.29 MB | - | [link](https://www.kaggle.com/datasets/andrewmvd/fundus-image-registration) |
 | Ocular Disease Recognition / ODIR-5K (Usability 8.24) | 5000 / 2.03 GB | Normal, Diabetes, Glaucoma, Cataract, Age related Macular Degeneration, Hypertension, Pathological Myopia, Other diseases/abnormalities | [link](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k) |
-| Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 46 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) |
+| Retinal Fundus MultiDisease Image Dataset (RFMiD) | 3200 / - | 46 diseases | [link](https://paperswithcode.com/dataset/retinal-fundus-multidisease-image-dataset) [link](https://riadd.grand-challenge.org/download-all-classes/) |
 | Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0 | 860 / - | 25 diseases | [link](https://zenodo.org/records/7505822) |
 | INSPIRE-AVR | 40 / 80 MB | Hypertensive Retinopathy | [link](https://medicine.uiowa.edu/eye/inspire-datasets) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
 | VICAVR | 58 / - | Hypertensive Retinopathy | [link](http://www.varpa.es/research/ophtalmology.html#vicavr) [paper](https://www.mdpi.com/2306-5354/11/1/56) | 
@@ -26,6 +26,7 @@ I just tempted to create a repository to store various information regarding dat
 | Retinal Fundus Images (Usability 3.13) | 21746 / 2.49 GB | AMD, Glaucoma, Diabetic Retinopathy, Cataract, Hypertensive Retinopathy, Pathological Myopia | [link](https://www.kaggle.com/datasets/kssanjaynithish03/retinal-fundus-images) |
 | Retinal fundus images for glaucoma analysis: the RIGA dataset | 750 / 12.9 GB | Glaucoma | [link](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) |
 | The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading | 1151 / 481.69 MB | Diabetic Retinopathy | [link](https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1) |
+| MuReD | 2208 / 3.83 GB | +20 diseases | [link](https://ieee-dataport.org/documents/multi-label-retinal-disease-mured-dataset) [link](https://data.mendeley.com/datasets/pc4mb3h8hz/1) |
 
 While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
@@ -47,4 +48,7 @@ While creating this, I found a paper that have compiled and analyzed various fun
 
 ### Nice Papers to Check
 - Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model (2019)
-- 
+- Hierarchical Vision Transformer using Shifted Windows (2021)
+- Multi-label Retinal Disease Classification Using Transformers (2022)
+- An interpretable transformer network for the retinal disease classification using optical coherence tomography (2023)
+- Multi-label classification of retinal disease via a novel vision transformer model (2024)
