@@ -26,7 +26,7 @@ I just tempted to create a repository to store various information regarding dat
 | Retinal Fundus Images (Usability 3.13) | 21746 / 2.49 GB | AMD, Glaucoma, Diabetic Retinopathy, Cataract, Hypertensive Retinopathy, Pathological Myopia | [link](https://www.kaggle.com/datasets/kssanjaynithish03/retinal-fundus-images) |
 | Retinal fundus images for glaucoma analysis: the RIGA dataset | 750 / 12.9 GB | Glaucoma | [link](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) |
 | The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading | 1151 / 481.69 MB | Diabetic Retinopathy | [link](https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1) |
-| MuReD | 2208 / 3.83 GB | +20 diseases | [link](https://ieee-dataport.org/documents/multi-label-retinal-disease-mured-dataset) [link](https://data.mendeley.com/datasets/pc4mb3h8hz/1) |
+| MuReD | 2208 / 3.83 GB | 19 diseases | [link](https://ieee-dataport.org/documents/multi-label-retinal-disease-mured-dataset) [link](https://data.mendeley.com/datasets/pc4mb3h8hz/1) |
 
 While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
@@ -53,3 +53,4 @@ While creating this, I found a paper that have compiled and analyzed various fun
 - Multi-label Retinal Disease Classification Using Transformers (2022)
 - An interpretable transformer network for the retinal disease classification using optical coherence tomography (2023)
 - Multi-label classification of retinal disease via a novel vision transformer model (2024)
+- Automatic Detection and Classification of Hypertensive Retinopathy with Improved Convolution Neural Network and Improved SVM (2024)
