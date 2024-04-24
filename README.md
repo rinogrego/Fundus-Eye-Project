@@ -28,6 +28,7 @@ I just tempted to create a repository to store various information regarding dat
 | The SUSTech-SYSU dataset for automated exudate detection and diabetic retinopathy grading | 1151 / 481.69 MB | Original | Diabetic Retinopathy | [link](https://figshare.com/articles/dataset/The_SUSTech-SYSU_dataset_for_automated_exudate_detection_and_diabetic_retinopathy_grading/12570770/1) |
 | MuReD | 2208 / 3.83 GB | ARIA, STARE, RFMiD | 19 diseases | [link](https://ieee-dataport.org/documents/multi-label-retinal-disease-mured-dataset) [link](https://data.mendeley.com/datasets/pc4mb3h8hz/1) |
 | Rotterdam EyePACS AIROGS | 101442 / 54.9 GB | Original | Glaucoma | [link](https://zenodo.org/records/5793241) [link](https://airogs.grand-challenge.org) |
+| HVDROPDB | ? / 326 MB | Original | Retinopathy of Prematurity | [link](https://data.mendeley.com/datasets/xw5xc7xrmp/2) [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10749257/)|
 
 While creating this, I found a paper that have compiled and analyzed various fundus datasets [here](https://www.mdpi.com/2077-0383/12/10/3587).
 
